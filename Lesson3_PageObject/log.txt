@@ -1,0 +1,20 @@
+2024-08-04 15:05:36 INFO ====== WebDriver manager ======
+2024-08-04 15:05:37 INFO Get LATEST chromedriver version for google-chrome
+2024-08-04 15:05:37 INFO Get LATEST chromedriver version for google-chrome
+2024-08-04 15:05:38 INFO Driver [/home/user/.wdm/drivers/chromedriver/linux64/127.0.6533.88/chromedriver-linux64/chromedriver] found in cache
+2024-08-04 15:05:41 INFO Test 1: starting
+2024-08-04 15:05:43 INFO Send test to element //*[@id="login"]/div[1]/label/input
+2024-08-04 15:05:43 INFO Send test to element //*[@id="login"]/div[2]/label/input
+2024-08-04 15:05:44 INFO Click login button
+2024-08-04 15:05:45 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2024-08-04 15:05:45 INFO Test 2: starting
+2024-08-04 15:05:45 INFO Send marumaru to element //*[@id="login"]/div[1]/label/input
+2024-08-04 15:05:45 INFO Send bbdafa9eea to element //*[@id="login"]/div[2]/label/input
+2024-08-04 15:05:46 INFO Click login button
+2024-08-04 15:05:46 INFO Click Contact button
+2024-08-04 15:05:48 INFO Send Maru to element //*[@id="contact"]/div[1]/label/input
+2024-08-04 15:05:49 INFO Send maru@gmail.com to element //*[@id = "contact"]/div[2]/label/input
+2024-08-04 15:05:49 INFO Send MaruTalks to element //*[@id = "contact"]/div[3]/label/span/textarea
+2024-08-04 15:05:49 INFO Click Contact button
+2024-08-04 15:05:51 INFO Get alert message
+2024-08-04 15:05:51 INFO Alert message is Form successfully submitted
