@@ -1,0 +1,19 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 5
+
+login: marumaru
+password: bbdafa9eea
+
+title: Could our conscience be quantum?
+description: MaruTalks is here
+content: Today we`ll be revealing the phenomenon of our conscience.
+
+test_name: Maru
+test_email: maru@gmail.com
+test_content: MaruTalks
+
+gateway: https://test-stand.gb.ru/gateway/login
+api: https://test-stand.gb.ru/api/posts
+posts: https://test-stand.gb.ru/gateway/posts
+not_me_title: ''

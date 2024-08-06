@@ -1,0 +1,13 @@
+2024-08-06 18:49:48 INFO Test Create post: running
+2024-08-06 18:49:49 INFO Test Check post: running
+2024-08-06 18:49:50 INFO Test Not me post: running
+2024-08-06 18:49:51 INFO ====== WebDriver manager ======
+2024-08-06 18:49:51 INFO Get LATEST chromedriver version for google-chrome
+2024-08-06 18:49:52 INFO Get LATEST chromedriver version for google-chrome
+2024-08-06 18:49:52 INFO Driver [/home/user/.wdm/drivers/chromedriver/linux64/127.0.6533.88/chromedriver-linux64/chromedriver] found in cache
+2024-08-06 18:49:56 INFO Test Error: running
+2024-08-06 18:50:00 INFO Test Enter: running
+2024-08-06 18:50:03 INFO Test Title: running
+2024-08-06 18:50:08 INFO Test Contact us: running
+2024-08-06 18:50:12 INFO Get alert message
+2024-08-06 18:50:12 INFO Alert message is Form successfully submitted
